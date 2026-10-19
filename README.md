@@ -8,6 +8,6 @@ Sign in with Discord to use the free Player controls. Enter your Courtside+ acti
 
 Existing clients can click Update Ready. The legacy Courtside-update.zip is provided only for compatibility with older automatic updaters.
 
-Support: https://discord.gg/T3rmKKCBar
+Support: https://discord.gg/Mm5Kt5fmvs
 
 Source code, signing keys and Owner access keys are not stored in this repository.
