@@ -6,7 +6,7 @@ Download Courtside-client-update.zip from the latest release, extract all four f
 
 Sign in with Discord to use the free Player controls. Enter your Courtside+ activation key in Settings to unlock paid features.
 
-Existing clients can click Update Ready. The legacy Courtside-update.zip is provided only for compatibility with older automatic updaters.
+New clients check for updates before sign-in, install required signed updates, and restart while keeping the saved sign-in. If v1.22.7 or v1.22.8 stops at a version warning, replace it with the current ZIP once. The legacy Courtside-update.zip is provided only for compatibility with older automatic updaters.
 
 Support: https://discord.gg/Mm5Kt5fmvs
 
